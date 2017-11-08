@@ -1,0 +1,3 @@
+var APP_ID = '87177048873c30834565c81058236b17';
+
+module.exports.OWM_APP_ID = APP_ID;
